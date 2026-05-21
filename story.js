@@ -12,6 +12,7 @@ let vehicle = prompt("Something they ride:");
 let music = prompt("Type of music:");
 let color = prompt("Favorite color:");
 let time = prompt("Time of day:");
+let activity = prompt("Favorite summer activity:");
 
 let story =
 "It was a " + weather + " summer afternoon in " + town + ". " +
@@ -38,4 +39,29 @@ object + " hidden by the sidewalk. " +
 "At first, they laughed and made up funny stories about where it came from. " +
 
 "But suddenly, the " + object +
-" started glowing bright " + color + ". " +
+" started glowing bright " + color + ". " +" started glowing bright " + color + ". " +
+
+petName + " began barking loudly, and the ground underneath them started to shake. " +
+
+friend + " picked up the " + object +
+" and noticed it had a tiny map carved into it. " +
+
+"The map led to a secret underground tunnel beneath " + town + ". " +
+
+"As they explored the tunnel, they discovered that the " + object +
+" was actually a key to a hidden treasure left behind many years ago. " +
+
+"But the biggest surprise was waiting at the end of the tunnel — " +
+
+friend + " admitted they had known about the treasure the whole time and secretly planned the entire summer day to help " +
+name + " find it. " +
+
+"Inside the treasure chest were stacks of old coins, glowing crystals, and a note that read: " +
+"'The real treasure is the adventure you share with your friends.' " +
+
+"As the sun finally set, " + name +
+", " + friend +
+", and " + petName +
+" walked home shocked, excited, and already planning their next adventure.";
+
+alert(story);
