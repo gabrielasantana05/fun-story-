@@ -27,3 +27,15 @@ name + " brought their " + pet +
 "While listening to " + music +
 " music, they shared some " + snack +
 " and drank cold " + drink + ". " +
+
+"Later, they rode around on a " + color +
+" " + vehicle +
+" and spent hours doing " + activity + ". " +
+
+"Near the end of the day, they discovered a strange " +
+object + " hidden by the sidewalk. " +
+
+"At first, they laughed and made up funny stories about where it came from. " +
+
+"But suddenly, the " + object +
+" started glowing bright " + color + ". " +
