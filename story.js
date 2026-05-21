@@ -39,7 +39,7 @@ object + " hidden by the sidewalk. " +
 "At first, they laughed and made up funny stories about where it came from. " +
 
 "But suddenly, the " + object +
-" started glowing bright " + color + ". " +" started glowing bright " + color + ". " +
+" started glowing bright " + color + ". " +
 
 petName + " began barking loudly, and the ground underneath them started to shake. " +
 
