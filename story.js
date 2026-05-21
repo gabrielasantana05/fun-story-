@@ -57,7 +57,7 @@ friend + " admitted they had known about the treasure the whole time and secretl
 name + " find it. " +
 
 "Inside the treasure chest were stacks of old coins, glowing crystals, and a note that read: " +
-"'The real treasure is the adventure you share with your friends.' " +
+"'The real treasure is the adventure you share with your friends. '" +
 
 "As the sun finally set, " + name +
 ", " + friend +
